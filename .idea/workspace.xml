@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e340d625-4048-4b53-9c8c-dd9d6d7385f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 6/day6_final.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 10/day10_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 11/day11_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 7/day7_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 8/day8_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 9/day9_final.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/day1 - Revisited.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/day1_final.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/day2  - Revisited.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/day2_final.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/day3 - Revisited.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/day3_final.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/day4 Revisited.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/day4_final.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/day5 - revisited.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/day5_final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/day6_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6/day6_final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 7/day7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/Day8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Day8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +53,8 @@
       <recent name="C:\Users\903774\OneDrive\Python _older\Advent 2015\Day 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.day6_final">
-    <configuration name="day5_final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.day11_final">
+    <configuration name="day10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advent 2015" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\903774\OneDrive\Python _older\Advent 2015\Day 5\day5_final.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 10/day10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day5b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day10_final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advent 2015" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/day5b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 10/day10_final.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day11_final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advent 2015" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 6/day6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 11/day11_final.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day6_final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advent 2015" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 6/day6_final.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 9/day9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day6b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day9_final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advent 2015" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 6/day6b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 9/day9_final.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day6_final" />
-        <item itemvalue="Python.day6b" />
-        <item itemvalue="Python.day6" />
-        <item itemvalue="Python.day5_final" />
-        <item itemvalue="Python.day5b" />
+        <item itemvalue="Python.day11_final" />
+        <item itemvalue="Python.day10_final" />
+        <item itemvalue="Python.day10" />
+        <item itemvalue="Python.day9_final" />
+        <item itemvalue="Python.day9" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610718508048</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Push offline work">
+      <created>1611040940989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611040940989</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

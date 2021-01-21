@@ -5,11 +5,13 @@ with open('input.txt') as f:
 
 len_lit = 0
 for line in lines:
+    print(line)
     len_lit += len(line)
 
 
 len_screen = 0
 for line in lines:
+    print(line)
     string = line[1: -1]
     string = string.replace('\\\\', 'x')
     string = string.replace('\\\"', 'x')

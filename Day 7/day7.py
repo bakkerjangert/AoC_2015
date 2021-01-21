@@ -143,5 +143,5 @@ while len(lines) > 1:
         BW_none(lines, i)
     i += 1
 
-print(f'The answer if {values["a"]}')
+print(f'The answer is {values["a"]}')
 
