@@ -21,8 +21,8 @@ for step in range(50):
             current_number = number
             number_count = 1
     if step == 39:
-        print(f'Part 1: The legth after 40 steps = {len(next_sequence)}')
+        print(f'Part 1: The length after 40 steps = {len(next_sequence)}')
     if step == 49:
-        print(f'Part 2: The legth after 50 steps = {len(next_sequence)}')
+        print(f'Part 2: The length after 50 steps = {len(next_sequence)}')
     # print(next_sequence)
     sequence = next_sequence + '_'

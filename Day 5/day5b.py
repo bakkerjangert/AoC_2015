@@ -1,8 +1,6 @@
 with open('input.txt') as f:
     lines = f.read().splitlines()
 
-
-
 nice_string_count = 0
 nice_strings = []
 

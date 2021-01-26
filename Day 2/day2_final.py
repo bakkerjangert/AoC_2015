@@ -6,7 +6,7 @@ with open('input.txt') as f:
 # part 2: How many total feet of ribbon should they order?
 
 # Approach: Make a list of presents with dimensions (h x l x w), then dirive the answer by loping over listed list
-# To make things easier the present dimensions are order from low to high
+# To make things easier the present dimensions are ordered from low to high
 # By doing this the smallest side can be easaly determined by index [0] and [1]
 
 presents = []

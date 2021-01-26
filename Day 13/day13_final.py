@@ -2,6 +2,13 @@ import itertools
 with open('input.txt') as f:
     lines = f.read().splitlines()
 
+# Part 1: find the maximum happiness possible by arranging guest on a circular table
+# Approach:
+# Make a dict with happiness per neigbor; also make a set of names
+# Use itertools to determine every table configuration
+# Determine happiness per configuration and kep track of maximum
+# Prt 2: Just as part one, but not a circular configuration but just plain list configuration
+
 names = set()
 happiness_data = {}
 

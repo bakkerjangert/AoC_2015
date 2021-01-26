@@ -52,6 +52,3 @@ for instruction in instructions:
 
 print(f'Part 1: There are {int(grid_part_1.sum())} lights burning after following the instructions')
 print(f'Part 2: The total brightness is {int(grid_part_2.sum())} after following the instructions')
-
-print(grid_part_1)
-print(grid_part_2)
