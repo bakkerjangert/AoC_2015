@@ -1,4 +1,4 @@
-# Advent of Code 2015 - Day 1 part a & b
+# Advent of Code 2015 - Day 01 part a & b
 # Read input data
 with open('input.txt') as f:
     lines = f.read().splitlines()
