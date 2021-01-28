@@ -6,57 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e340d625-4048-4b53-9c8c-dd9d6d7385f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/day1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/day1_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 01/Day 01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 01/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/day10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/day10_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/Day 10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/day10b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/day10b_ot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/day 11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/day11_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/Day 11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Day 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 12/Day 12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/day12_final.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/day12b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 13/day13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 13/day13_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 13/Day 13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 13/day13b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 14/Day 14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 14/Day 14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 14/Day 14b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 14/day14_final.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/day2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/day2_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 02/Day 02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 02/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/day3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/day3_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 03/Day 03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/day3b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 03/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/day4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/day4_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 04/Day 04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/day5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/day5_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 05/Day 05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/day5b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 05/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6/day6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6/day6_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 06/Day 06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6/day6b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 06/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6/input1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/day7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/day7_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 07/Day 07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/day7b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 07/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7/input_b.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Day8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Day8b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/day8_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 08/Day 08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 08/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/day9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/day9_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 09/Day 09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/day9_self_build.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/day9b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 09/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/day15 - Optimised.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 15/Day 15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/day15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/day15b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 15/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day 15/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +52,7 @@
       <recent name="C:\Users\903774\OneDrive\Python _older\Advent 2015\Day 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Day 08">
+  <component name="RunManager" selected="Python.Day 15 (1)">
     <configuration name="Day 08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advent 2015" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,27 +66,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 08/Day 08.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Day 13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advent 2015" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\903774\OneDrive\Python _older\Advent 2015\Day 13\Day 13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day 14b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Day 15 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advent 2015" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +124,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 14/Day 14b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 15/Day 15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day 15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advent 2015" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\903774\OneDrive\Python _older\Advent 2015\Day 15\Day 15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advent 2015" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 15/day15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day 15 (1)" />
+        <item itemvalue="Python.day15" />
+        <item itemvalue="Python.Day 15" />
         <item itemvalue="Python.Day 08" />
         <item itemvalue="Python.Day 14" />
-        <item itemvalue="Python.Day 14b" />
-        <item itemvalue="Python.Day 14" />
-        <item itemvalue="Python.Day 13" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611647442050</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Push offline work">
+      <created>1611649259645</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611649259645</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
