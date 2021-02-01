@@ -1,6 +1,21 @@
+import matplotlib.pyplot as plt
+import matplotlib.patches as patches
 with open('input.txt') as f:
     lines = f.read().splitlines()
 
+def plot(grid1, grid2, name):
+    coords1, coords2 = [], []
+    for line in grid1:
+        coords1.append(list(map(int, line)))
+    for line in grid2:
+        coords2.append(list(map(int, line)))
+    f = plt.figure()
+    f.add_subplot(1, 2, 1)
+    plt.imshow(coords1, cmap='Greys')
+    f.add_subplot(1, 2, 2)
+    plt.imshow(coords2, cmap='Greys')
+    plt.savefig(name + '.png')
+    plt.close()
 
 def set_corners_on(grid):
     grid[1] = '01' + grid[1][2:-2] + '10'
@@ -26,6 +41,7 @@ maximum_column = len(grid_part_1[0]) - 1
 for time in range(100):
     next_grid_part_1 = grid_part_1.copy()
     next_grid_part_2 = grid_part_2.copy()
+    plot(grid_part_1, grid_part_2, 'fig' + str(time))
     for row in range(1, len(grid_part_1) - 1):  # Dont loop over outer zeros
         for column in range(1, len(grid_part_1[0]) - 1):  # Dont loop over outer zeros
             burning_neighbors_part_1, burning_neighbors_part_2 = 0, 0
@@ -67,3 +83,5 @@ for i in range(len(grid_part_1)):
 
 print(f'Part 1: There are {total_lights_after_100_steps_part_1} lights turned on after 100 steps')
 print(f'Part 2: There are {total_lights_after_100_steps_part_2} lights turned on after 100 steps')
+
+
